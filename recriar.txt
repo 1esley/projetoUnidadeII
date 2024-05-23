@@ -1,0 +1,1 @@
+refazer o código utilizando funções
